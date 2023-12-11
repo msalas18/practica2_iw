@@ -18,3 +18,4 @@ import { Tab1PageRoutingModule } from './tab1-routing.module';
   declarations: [Tab1Page]
 })
 export class Tab1PageModule {}
+
